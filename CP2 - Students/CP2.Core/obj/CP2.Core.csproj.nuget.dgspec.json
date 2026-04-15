@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj",
         "projectName": "CP2.Architecture",
-        "projectPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj",
         "projectName": "CP2.Core",
-        "projectPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Core\\CP2.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,11 +99,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj"
+              "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Architecture\\CP2.Architecture.csproj"
               },
-              "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj"
+              "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj",
         "projectName": "CP2.Data",
-        "projectPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\CP2.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\PrograAvanzadaWeb\\CP2 - Students\\CP2.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\CasoPrograWeb\\CP2 - Students\\CP2.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

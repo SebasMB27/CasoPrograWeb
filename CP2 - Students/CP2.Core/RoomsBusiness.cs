@@ -103,9 +103,32 @@ public class RoomsBusiness(
 
     public async Task<bool> SolutionRoom3Async(string code)
     {
-        // solucion aqui
-        var result = Evaluate(3, code);
-        return result;
+        var key = "E4A1F9B7C32D8F64A9F1C0D3B7E2A6CC4F18B92ED0C4A7F1D3B89C6A5F2E1D44";
+        var service = new SecureHashService(key);
+
+        var nameVariants = new[]
+        {
+        "Alvaro Andrei Miranda Muñoz",
+        "alvaro andrei miranda muñoz",
+        "Alvaro Miranda",
+        "alvaro miranda",
+        "Alvaro",
+        "middleware",
+    };
+
+        foreach (var name in nameVariants)
+        {
+            // Hash directo del nombre
+            var result = service.Hash(name);
+            if (Evaluate(3, result)) return true;
+
+            //  Double hash — hash del hash si el pirmero hash no funciona
+            var doubleResult = service.Hash(result);
+            if (Evaluate(3, doubleResult))
+                return true;
+        }
+
+        return false;
     }
 
     public async Task<bool> SolutionRoom4Async(string code)

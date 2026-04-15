@@ -46,3 +46,15 @@ C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.Architecture\obj\De
 C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\refint\CP2.Architecture.dll
 C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.pdb
 C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\ref\CP2.Architecture.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\bin\Debug\net9.0\CP2.Architecture.deps.json
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\bin\Debug\net9.0\CP2.Architecture.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\bin\Debug\net9.0\CP2.Architecture.pdb
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.sourcelink.json
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\refint\CP2.Architecture.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.pdb
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\ref\CP2.Architecture.dll
