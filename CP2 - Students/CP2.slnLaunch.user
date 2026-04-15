@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CP2\\CP2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CP2.API\\CP2.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

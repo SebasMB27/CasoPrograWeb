@@ -1,0 +1,1251 @@
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\appsettings.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.staticwebassets.runtime.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.staticwebassets.endpoints.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.exe
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.deps.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.runtimeconfig.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.pdb
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Architecture.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Core.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Data.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Architecture.pdb
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Core.pdb
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\bin\Debug\net9.0\CP2.Data.pdb
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.AssemblyInfo.cs
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\scopedcss\bundle\CP2.styles.css
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\scopedcss\projectbundle\CP2.bundle.scp.css
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\aokibex7xl-{0}-qb242ykvml-qb242ykvml.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\fmipljj6si-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ufet7g7u22-{0}-a9w4tgcq6x-a9w4tgcq6x.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\jckd0loksp-{0}-z2x8dff2op-z2x8dff2op.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\4um431cv3z-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\lw5gsr9wbj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\fyo431i7pe-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\9nairr1e3a-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\nfo5bm9iwy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\w640j56119-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ssw638rppg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\wxjh46ysz4-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\7kj3e38bkc-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\gcl68mt2ft-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\paynmmhbkv-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\5hohwmbqzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\usu21kvt00-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\39nevtflnc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\lr9bkgbfup-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\5napbmd8i5-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\0b7gaqwy78-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\1100lbs6h7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\o107ppjhqk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\1mo86pxxyj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ellnh4mjz1-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\prbdwxu0vd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\6uwj7kude5-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\5q0dkg0oz7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\amc8i2hiln-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\kvbgegvai5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\9qtupxf9h6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\5ey1ct1h33-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\3d80ufjfnm-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\l9mjpzh1ox-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\ts45d3x5fq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\yhxnhxxfy6-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\9xig4rdzhh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\gobx4my6km-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\i4bjokdlrl-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\iouxjv1ont-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\489qper8mz-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\b2j8m9g5mg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\qq2ndablhw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\8moj5iqc9h-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\5y69c1o94r-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\64cilaulks-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\lpy29abfar-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\c2egsm7kew-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\7w10p9cj4o-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\izqyd9uyxw-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\mozfshpvvm-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\tmckanuw5o-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\1jutxksu7w-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\6dh1a1zqnn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\k9y8zafidl-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\3eib1ifv0u-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\l6qckt8xzl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\dg3makkr7m-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\4qgvecafme-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\81ww7c64p1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\44ftb4kvo9-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\bhbpde6qly-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\x7akugtew2-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\elgaia0i1e-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\compressed\br3mk69eb6-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.csproj.Up2Date
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\refint\CP2.dll
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.pdb
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\CP2.genruntimeconfig.cache
+C:\Users\User\OneDrive\CP2-master\CP2-master\CP2\obj\Debug\net9.0\ref\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.staticwebassets.runtime.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.exe
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Azure.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Azure.Identity.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Humanizer.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.ClientModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.CodeDom.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Memory.Data.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Data.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Core.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\CP2.Data.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\scopedcss\bundle\CP2.styles.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\scopedcss\projectbundle\CP2.bundle.scp.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\fmipljj6si-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\jckd0loksp-{0}-z2x8dff2op-z2x8dff2op.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\4um431cv3z-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\lw5gsr9wbj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\fyo431i7pe-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\9nairr1e3a-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\nfo5bm9iwy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\w640j56119-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ssw638rppg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\wxjh46ysz4-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\7kj3e38bkc-{0}-ub07r2b239-ub07r2b239.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\gcl68mt2ft-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\paynmmhbkv-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\5hohwmbqzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\usu21kvt00-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\39nevtflnc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\lr9bkgbfup-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\5napbmd8i5-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\0b7gaqwy78-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\1100lbs6h7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\o107ppjhqk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\1mo86pxxyj-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ellnh4mjz1-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\prbdwxu0vd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\6uwj7kude5-{0}-06098lyss8-06098lyss8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\5q0dkg0oz7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\amc8i2hiln-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\kvbgegvai5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\9qtupxf9h6-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\5ey1ct1h33-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\3d80ufjfnm-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\l9mjpzh1ox-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ts45d3x5fq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\yhxnhxxfy6-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\9xig4rdzhh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\gobx4my6km-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\i4bjokdlrl-{0}-493y06b0oq-493y06b0oq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\iouxjv1ont-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\489qper8mz-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\b2j8m9g5mg-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\qq2ndablhw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\8moj5iqc9h-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\5y69c1o94r-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\64cilaulks-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\lpy29abfar-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\c2egsm7kew-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\7w10p9cj4o-{0}-47otxtyo56-47otxtyo56.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\izqyd9uyxw-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\mozfshpvvm-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\tmckanuw5o-{0}-ilo7uva0vt-ilo7uva0vt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\1jutxksu7w-{0}-qlccset4i1-qlccset4i1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\6dh1a1zqnn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\k9y8zafidl-{0}-ag7o75518u-ag7o75518u.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\3eib1ifv0u-{0}-xzw0cte36n-xzw0cte36n.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\l6qckt8xzl-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\dg3makkr7m-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\4qgvecafme-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\81ww7c64p1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\44ftb4kvo9-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\bhbpde6qly-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\x7akugtew2-{0}-jfsiqqwiad-jfsiqqwiad.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\elgaia0i1e-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\br3mk69eb6-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\staticwebassets.build.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\staticwebassets.development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\swae.build.ex.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\refint\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\ref\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.staticwebassets.runtime.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.exe
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\CP2.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\ufet7g7u22-{0}-xcc4ykxjfp-xcc4ykxjfp.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\bin\Debug\net9.0\wwwroot\media\intro.mp4
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\compressed\aokibex7xl-{0}-trb4ari1ec-trb4ari1ec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\artifacts\verify-build\wwwroot\media\intro.mp4
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2\obj\Debug\net9.0\CP2.sourcelink.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\wwwroot\media\intro.mp4
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.staticwebassets.runtime.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.exe
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Azure.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Azure.Identity.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Humanizer.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.ClientModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.CodeDom.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Memory.Data.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Core.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Data.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Core.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Data.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.sourcelink.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\bundle\CP2.styles.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\projectbundle\CP2.bundle.scp.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\aokibex7xl-{0}-trb4ari1ec-trb4ari1ec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\fmipljj6si-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ufet7g7u22-{0}-xcc4ykxjfp-xcc4ykxjfp.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\jckd0loksp-{0}-z2x8dff2op-z2x8dff2op.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4um431cv3z-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lw5gsr9wbj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\fyo431i7pe-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9nairr1e3a-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nfo5bm9iwy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\w640j56119-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ssw638rppg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\wxjh46ysz4-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7kj3e38bkc-{0}-ub07r2b239-ub07r2b239.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\gcl68mt2ft-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\paynmmhbkv-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5hohwmbqzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\usu21kvt00-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\39nevtflnc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lr9bkgbfup-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5napbmd8i5-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\0b7gaqwy78-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1100lbs6h7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\o107ppjhqk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1mo86pxxyj-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ellnh4mjz1-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\prbdwxu0vd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\6uwj7kude5-{0}-06098lyss8-06098lyss8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5q0dkg0oz7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\amc8i2hiln-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\kvbgegvai5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9qtupxf9h6-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5ey1ct1h33-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3d80ufjfnm-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l9mjpzh1ox-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ts45d3x5fq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\yhxnhxxfy6-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9xig4rdzhh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\gobx4my6km-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\i4bjokdlrl-{0}-493y06b0oq-493y06b0oq.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\iouxjv1ont-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\489qper8mz-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\b2j8m9g5mg-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\qq2ndablhw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8moj5iqc9h-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5y69c1o94r-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\64cilaulks-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lpy29abfar-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\c2egsm7kew-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7w10p9cj4o-{0}-47otxtyo56-47otxtyo56.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\izqyd9uyxw-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\mozfshpvvm-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tmckanuw5o-{0}-ilo7uva0vt-ilo7uva0vt.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1jutxksu7w-{0}-qlccset4i1-qlccset4i1.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\6dh1a1zqnn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\k9y8zafidl-{0}-ag7o75518u-ag7o75518u.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3eib1ifv0u-{0}-xzw0cte36n-xzw0cte36n.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l6qckt8xzl-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\dg3makkr7m-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4qgvecafme-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\81ww7c64p1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\44ftb4kvo9-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bhbpde6qly-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\x7akugtew2-{0}-jfsiqqwiad-jfsiqqwiad.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\elgaia0i1e-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\compressed\br3mk69eb6-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\swae.build.ex.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\refint\CP2.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\CP2.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2\obj\Debug\net9.0\ref\CP2.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfo.cs
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cs
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\refint\CP2.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\wwwroot\media\intro.mp4
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.staticwebassets.endpoints.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\appsettings.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.staticwebassets.runtime.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.exe
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.deps.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.runtimeconfig.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Architecture.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Core.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Data.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Architecture.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Core.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.Data.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\bundle\CP2.styles.css
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\scopedcss\projectbundle\CP2.bundle.scp.css
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\aokibex7xl-{0}-trb4ari1ec-trb4ari1ec.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\fmipljj6si-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ufet7g7u22-{0}-xcc4ykxjfp-xcc4ykxjfp.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\jckd0loksp-{0}-z2x8dff2op-z2x8dff2op.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4um431cv3z-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lw5gsr9wbj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\fyo431i7pe-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9nairr1e3a-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\nfo5bm9iwy-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\w640j56119-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ssw638rppg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\wxjh46ysz4-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7kj3e38bkc-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\gcl68mt2ft-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\paynmmhbkv-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5hohwmbqzr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\usu21kvt00-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\39nevtflnc-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lr9bkgbfup-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5napbmd8i5-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\0b7gaqwy78-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1100lbs6h7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\o107ppjhqk-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1mo86pxxyj-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ellnh4mjz1-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\prbdwxu0vd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\6uwj7kude5-{0}-06098lyss8-06098lyss8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5q0dkg0oz7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\amc8i2hiln-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\kvbgegvai5-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9qtupxf9h6-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5ey1ct1h33-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3d80ufjfnm-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l9mjpzh1ox-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\ts45d3x5fq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\yhxnhxxfy6-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\9xig4rdzhh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\gobx4my6km-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\i4bjokdlrl-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\iouxjv1ont-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\489qper8mz-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\b2j8m9g5mg-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\qq2ndablhw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\8moj5iqc9h-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\5y69c1o94r-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\64cilaulks-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\lpy29abfar-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\c2egsm7kew-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\7w10p9cj4o-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\izqyd9uyxw-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\mozfshpvvm-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\tmckanuw5o-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\1jutxksu7w-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\6dh1a1zqnn-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\k9y8zafidl-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\3eib1ifv0u-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\l6qckt8xzl-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\dg3makkr7m-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\4qgvecafme-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\81ww7c64p1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\44ftb4kvo9-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\bhbpde6qly-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\x7akugtew2-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\elgaia0i1e-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\compressed\br3mk69eb6-{0}-1e7dr1c2cm-1e7dr1c2cm.gz
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.Up2Date
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.genruntimeconfig.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2\obj\Debug\net9.0\ref\CP2.dll

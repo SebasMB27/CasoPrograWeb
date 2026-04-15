@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CP2.Architecture/1.0.0": {
+        "runtime": {
+          "CP2.Architecture.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP2.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

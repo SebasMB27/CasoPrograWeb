@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Has Escapado...!!!";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/out.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-dark">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <div>
+                    Han terminado el Caso Practico dos:
+                    Copia la clase de Business y enviala en un zip al profesor en el apartado del Caso Practico 2 de la semana indicada por el profesor.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

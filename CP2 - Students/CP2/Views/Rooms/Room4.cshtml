@@ -1,0 +1,180 @@
+@{
+    ViewData["Title"] = "Room 4";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room4.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .puzzle-preview-wrapper {
+            width: min(1000px, 94vw);
+            margin: 0 auto 1rem;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 10px 35px rgba(0, 0, 0, 0.55);
+            position: relative;
+            height: min(82vh, 1100px);
+            min-height: 700px;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+        .puzzle-image,
+        .puzzle-pdf {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            transition: opacity 0.25s ease;
+        }
+
+        .puzzle-image {
+            object-fit: contain;
+            opacity: 1;
+            background: #000;
+        }
+
+        .puzzle-pdf {
+            border: 0;
+            opacity: 0;
+            pointer-events: none;
+            background: #111;
+        }
+
+        .puzzle-preview-wrapper:hover .puzzle-image {
+            opacity: 0;
+        }
+
+        .puzzle-preview-wrapper:hover .puzzle-pdf {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .puzzle-preview-hint {
+            width: min(1000px, 94vw);
+            margin: 0 auto 1rem;
+            text-align: center;
+            color: rgba(255, 255, 255, 0.9);
+            letter-spacing: 0.08em;
+            font-size: 0.9rem;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-9">
+        <div class="card shadow-sm border-0 transparent-white spooky-white">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <form asp-action="Room4" method="post" class="needs-validation">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <pre>
+                            Tip <span>&#x1F4A1;</span>: 
+                            "Inicio semana 11"
+                        </pre>
+                        <p class="form-label">Enter the 4 guessed words and their coordinates:</p>
+                    </div>
+
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Word 1</label>
+                        <div class="d-flex gap-2 mb-2">
+                            <input id="word-1" type="text" class="form-control spooky-input-white" placeholder="Word" required />
+                            <input id="word-1-start-column" type="text" class="form-control spooky-input-white" placeholder="Start Col" maxlength="1" required />
+                            <input id="word-1-start-row" type="number" class="form-control spooky-input-white" placeholder="Start Row" min="1" max="25" required />
+                            <input id="word-1-end-column" type="text" class="form-control spooky-input-white" placeholder="End Col" maxlength="1" required />
+                            <input id="word-1-end-row" type="number" class="form-control spooky-input-white" placeholder="End Row" min="1" max="25" required />
+                        </div>
+                    </div>
+
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Word 2</label>
+                        <div class="d-flex gap-2 mb-2">
+                            <input id="word-2" type="text" class="form-control spooky-input-white" placeholder="Word" required />
+                            <input id="word-2-start-column" type="text" class="form-control spooky-input-white" placeholder="Start Col" maxlength="1" required />
+                            <input id="word-2-start-row" type="number" class="form-control spooky-input-white" placeholder="Start Row" min="1" max="25" required />
+                            <input id="word-2-end-column" type="text" class="form-control spooky-input-white" placeholder="End Col" maxlength="1" required />
+                            <input id="word-2-end-row" type="number" class="form-control spooky-input-white" placeholder="End Row" min="1" max="25" required />
+                        </div>
+                    </div>
+
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Word 3</label>
+                        <div class="d-flex gap-2 mb-2">
+                            <input id="word-3" type="text" class="form-control spooky-input-white" placeholder="Word" required />
+                            <input id="word-3-start-column" type="text" class="form-control spooky-input-white" placeholder="Start Col" maxlength="1" required />
+                            <input id="word-3-start-row" type="number" class="form-control spooky-input-white" placeholder="Start Row" min="1" max="25" required />
+                            <input id="word-3-end-column" type="text" class="form-control spooky-input-white" placeholder="End Col" maxlength="1" required />
+                            <input id="word-3-end-row" type="number" class="form-control spooky-input-white" placeholder="End Row" min="1" max="25" required />
+                        </div>
+                    </div>
+
+                    <div class="mb-3 text-start">
+                        <label class="form-label">Word 4</label>
+                        <div class="d-flex gap-2 mb-2">
+                            <input id="word-4" type="text" class="form-control spooky-input-white" placeholder="Word" required />
+                            <input id="word-4-start-column" type="text" class="form-control spooky-input-white" placeholder="Start Col" maxlength="1" required />
+                            <input id="word-4-start-row" type="number" class="form-control spooky-input-white" placeholder="Start Row" min="1" max="25" required />
+                            <input id="word-4-end-column" type="text" class="form-control spooky-input-white" placeholder="End Col" maxlength="1" required />
+                            <input id="word-4-end-row" type="number" class="form-control spooky-input-white" placeholder="End Row" min="1" max="25" required />
+                        </div>
+                    </div>
+
+                    <input type="hidden" id="x" name="x" />
+                    <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="puzzle-preview-wrapper">
+    <img class="puzzle-image" src="~/media/puzzle.jpeg" alt="Puzzle preview image" />
+    <img class="puzzle-pdf" src="~/media/puzzle.png" alt="Puzzle preview table" />
+</div>
+
+@section Scripts {
+    <script>
+        (() => {
+            const form = document.querySelector('form[asp-action="Room4"], form[action*="Room4"]');
+            const payloadInput = document.getElementById("x");
+            if (!form || !payloadInput) return;
+
+            const value = (id) => (document.getElementById(id)?.value ?? "").trim();
+            const column = (id) => value(id).toUpperCase();
+            const row = (id) => Number.parseInt(value(id), 10);
+
+            const wordPayload = (n) => ({
+                word: value(`word-${n}`),
+                start: {
+                    column: column(`word-${n}-start-column`),
+                    row: row(`word-${n}-start-row`)
+                },
+                end: {
+                    column: column(`word-${n}-end-column`),
+                    row: row(`word-${n}-end-row`)
+                }
+            });
+
+            form.addEventListener("submit", () => {
+                const payload = {
+                    puzzleName: "OOP Puzzle",
+                    rows: 25,
+                    columns: 25,
+                    foundWords: [wordPayload(1), wordPayload(2), wordPayload(3), wordPayload(4)]
+                };
+
+                payloadInput.value = JSON.stringify(payload);
+            });
+        })();
+    </script>
+}

@@ -1,0 +1,58 @@
+@{
+    ViewData["Title"] = "Escape Rooms (Room 0)";
+}
+
+<div class="full-bleed">
+    <section class="home-night" aria-label="Exploration room">
+        <div class="flashlight-overlay" id="flashlight"></div>
+        @{
+            var binaries = ViewBag.binaries;// as string[] ?? Array.Empty<string>();
+            var random = new Random();
+            var secretCode = ViewBag.secretCode as string ?? "BEATME";
+            string convert(string binary)
+            {
+                if (string.IsNullOrWhiteSpace(binary))
+                {
+                    return "?";
+                }
+                try
+                {
+                    var code = Convert.ToInt32(binary, 2);
+                    return char.ConvertFromUtf32(code);
+                }
+                catch
+                {
+                    return "?";
+                }
+            }
+        }
+        <div class="letter-field" aria-hidden="true">
+            @foreach (var binary in binaries)
+            {
+                var topPercent = random.NextDouble() * 85 + 5;
+                var leftPercent = random.NextDouble() * 90 + 2;
+                <span style="top:@($"{topPercent:F1}%"); left:@($"{leftPercent:F1}%");">@convert(binary)</span>
+            }
+        </div>
+
+        <div class="home-grid">            
+            <div class="secret-card secondary" aria-hidden="true">
+                <p class="secret-body secret-trigger" data-secret="@secretCode">do you think you can beat me?</p>
+            </div>
+        </div>
+
+        <div class="secret-input-panel" id="secretInputPanel" aria-live="polite" aria-hidden="true">
+            <div class="secret-input-row">
+                <input id="secretInput" class="secret-input" type="text" maxlength="16" autocomplete="off" spellcheck="false" />
+                <button id="secretSubmit" type="button" class="secret-submit">Beat Me</button>
+            </div>
+            <p class="secret-feedback" id="secretFeedback">Only the correct combination will open the door.</p>
+        </div>
+
+    </section>
+</div>
+
+@section Scripts {
+    <script src="~/js/home.js"></script>
+}
+

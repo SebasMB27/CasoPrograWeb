@@ -1,0 +1,34 @@
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\bin\Debug\net9.0\CP2.COR.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\bin\Debug\net9.0\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\bin\Debug\net9.0\CP2.COR.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\refint\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\CP2.COR.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.COR\obj\Debug\net9.0\ref\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.sourcelink.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\refint\CP2.COR.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.COR\obj\Debug\net9.0\ref\CP2.COR.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.deps.json
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\bin\Debug\net9.0\CP2.COR.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfo.cs
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\refint\CP2.COR.dll
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.pdb
+C:\Users\User\Documents\PrograAvanzadaWeb\CP2 - Students\CP2.COR\obj\Debug\net9.0\ref\CP2.COR.dll

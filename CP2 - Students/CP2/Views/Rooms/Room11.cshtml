@@ -1,0 +1,206 @@
+@{
+    ViewData["Title"] = "Room 11";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background: radial-gradient(circle at 20% 10%, #0f0f16, #050509 55%, #020205);
+            color: #f5f5ff;
+        }
+
+        .room11-wrap {
+            width: min(960px, 94vw);
+            margin: 2rem auto;
+            padding: 1.5rem;
+            border-radius: 16px;
+            background: rgba(7, 7, 12, 0.85);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            box-shadow: 0 18px 45px rgba(0, 0, 0, 0.65);
+            margin-top: 200px;
+        }
+
+        .room11-hint {
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 1rem;
+            font-size: 0.8rem;
+        }
+
+        .piece-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 0.7rem;
+            margin-bottom: 1.2rem;
+        }
+
+        .url-piece {
+            border: 1px dashed rgba(255, 255, 255, 0.28);
+            border-radius: 10px;
+            padding: 0.7rem 0.8rem;
+            background: rgba(255, 255, 255, 0.03);
+            color: #dfe3ff;
+            font-family: "Consolas", "Courier New", monospace;
+            text-align: center;
+            user-select: none;
+            cursor: grab;
+        }
+
+        .url-piece.dragging {
+            opacity: 0.45;
+            border-style: solid;
+        }
+
+        .url-piece.drop-target {
+            border-color: #99b0ff;
+            background: rgba(153, 176, 255, 0.1);
+        }
+
+        .room11-actions {
+            display: flex;
+            gap: 0.7rem;
+            margin-bottom: 1rem;
+        }
+
+        .room11-action {
+            border: 1px solid rgba(255, 255, 255, 0.24);
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.06);
+            color: #fff;
+            padding: 0.55rem 0.85rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            font-size: 0.78rem;
+            cursor: pointer;
+        }
+
+        .room11-input {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.06);
+            color: #fff;
+            min-height: 46px;
+            padding: 0.6rem 0.9rem;
+        }
+
+        .room11-input:focus {
+            outline: none;
+            border-color: rgba(153, 176, 255, 0.8);
+            box-shadow: 0 0 0 0.16rem rgba(153, 176, 255, 0.2);
+        }
+
+        .room11-submit {
+            margin-top: 1rem;
+            width: 100%;
+            border: 1px solid rgba(255, 255, 255, 0.24);
+            border-radius: 10px;
+            background: linear-gradient(135deg, #1f1b2e, #2e2745);
+            color: #fff;
+            padding: 0.8rem 1rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+    </style>
+}
+
+<h1 class="card-title text-center mb-4 spooky-white">@ViewData["Title"]</h1>
+
+<section class="room11-wrap">
+
+    <div id="pieceGrid" class="piece-grid">
+        <div class="url-piece" draggable="true">/100</div>
+        <div class="url-piece" draggable="true">.com</div>
+        <div class="url-piece" draggable="true">jsonplaceholder</div>
+        <div class="url-piece" draggable="true">https://</div>
+        <div class="url-piece" draggable="true">/posts</div>
+        <div class="url-piece" draggable="true">.typicode</div>
+    </div>
+
+    <div class="room11-actions">
+        <button id="applyOrderBtn" class="room11-action" type="button">Apply Order</button>
+    </div>
+
+    <form asp-action="Room11" method="post" class="needs-validation">
+        @Html.AntiForgeryToken()
+        <label for="x" class="form-label">olutit le  esergni</label>
+        <input id="x" name="x" placeholder="'(eltit)' olutit le av iuqa" type="text" class="room11-input" autocomplete="off" required />
+        <button type="submit" class="room11-submit">Beat Me</button>
+    </form>
+</section>
+
+section Styles {
+<style>
+    body {
+        background-image: url("/imgs/room11.jpg");
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
+}
+
+@section Scripts {
+    <script>
+        (() => {
+            const pieceGrid = document.getElementById("pieceGrid");
+            const input = document.getElementById("x");
+            const applyOrderBtn = document.getElementById("applyOrderBtn");
+            if (!pieceGrid || !input || !applyOrderBtn) return;
+
+            let draggingPiece = null;
+
+            const pieces = () => Array.from(pieceGrid.querySelectorAll(".url-piece"));
+
+            const clearDropTargets = () => {
+                pieces().forEach(p => p.classList.remove("drop-target"));
+            };
+
+            const buildUrlFromOrder = () => pieces().map(p => p.textContent.trim()).join("");
+
+            const wirePiece = (piece) => {
+                piece.addEventListener("dragstart", () => {
+                    draggingPiece = piece;
+                    piece.classList.add("dragging");
+                });
+
+                piece.addEventListener("dragend", () => {
+                    piece.classList.remove("dragging");
+                    clearDropTargets();
+                    draggingPiece = null;
+                });
+
+                piece.addEventListener("dragover", (event) => {
+                    event.preventDefault();
+                    if (!draggingPiece || draggingPiece === piece) return;
+                    clearDropTargets();
+                    piece.classList.add("drop-target");
+                });
+
+                piece.addEventListener("drop", (event) => {
+                    event.preventDefault();
+                    if (!draggingPiece || draggingPiece === piece) return;
+                    piece.classList.remove("drop-target");
+
+                    const rect = piece.getBoundingClientRect();
+                    const insertAfter = event.clientX > rect.left + rect.width / 2;
+                    if (insertAfter) {
+                        piece.after(draggingPiece);
+                    } else {
+                        piece.before(draggingPiece);
+                    }
+                });
+            };
+
+            pieces().forEach(wirePiece);
+
+            applyOrderBtn.addEventListener("click", () => {
+                input.value = buildUrlFromOrder();
+                input.focus();
+            });
+        })();
+    </script>
+}

@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Room 1";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/redroom.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-white">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <form asp-action="Room1" method="post" class="needs-validation">
+                    @Html.AntiForgeryToken()
+                    
+                    <div class="mb-3">
+                        <pre>
+                            Tip <span>&#x1F4A1;</span>: 
+                            "Dado un valor 𝑥 entre 2 y 10, calcula x de manera que el resultado te lleve al siguiente 'room'"
+                        </pre>
+                        <label for="x" class="form-label">Resultado de la operacion</label>
+                        <label>$"{x}{x^2}{3x}{x^3}":</label>
+                        <input type="number" id="x" name="x" class="form-control spooky-input-white" required />
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

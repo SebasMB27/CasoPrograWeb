@@ -1,0 +1,152 @@
+﻿@{
+    ViewData["Title"] = "Room 2";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room2.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-white">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <div style="margin:0; height:100vh; display:flex; justify-content:center; align-items:center;">
+
+                    <div style="position:relative; width:1400px; height:900px;">
+
+                        <!-- 1: SRP -->
+                        <div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%) rotate(0deg) translate(550px) rotate(0deg);">
+                            <svg width="500" height="250">
+                                <rect width="500" height="250" rx="10" fill="#4CAF50" opacity="0.9" />
+                                <text x="15" y="50" style="font-family:monospace; font-size:11px; fill:white;">❌ class User {</text>
+                                <text x="30" y="67" style="font-family:monospace; font-size:11px; fill:white;">save() { /* DB logic */ }</text>
+                                <text x="30" y="84" style="font-family:monospace; font-size:11px; fill:white;">sendEmail() { /* Email */ }</text>
+                                <text x="15" y="101" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+
+                                <text x="220" y="50" style="font-family:monospace; font-size:11px; fill:white;">✓ class User { }</text>
+                                <text x="220" y="67" style="font-family:monospace; font-size:11px; fill:white;">class UserRepo {</text>
+                                <text x="235" y="84" style="font-family:monospace; font-size:11px; fill:white;">save() { }</text>
+                                <text x="220" y="101" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="118" style="font-family:monospace; font-size:11px; fill:white;">class EmailService {</text>
+                                <text x="235" y="135" style="font-family:monospace; font-size:11px; fill:white;">send() { }</text>
+                                <text x="220" y="150" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                            </svg>
+                        </div>
+
+                        <form asp-action="Room2" method="post" class="room2-validatebox needs-validation">
+                            @Html.AntiForgeryToken()
+
+                            <div class="mb-3">
+                                <pre>
+                                    Tip <span>&#x1F4A1;</span>: 
+                                    "miguel plumas"
+                                </pre>
+                                <input type="text" id="x" name="x" class="form-control spooky-input-white" required />
+                            </div>
+
+                            <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                        </form>
+
+                        <!-- 2: OCP -->
+                        <div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%) rotate(60deg) translate(550px) rotate(-60deg);">
+                            <svg width="500" height="250">
+                                <rect width="500" height="250" rx="10" fill="#2196F3" opacity="0.9" />
+                                <text x="15" y="50" style="font-family:monospace; font-size:11px; fill:white;">❌ class Discount {</text>
+                                <text x="30" y="67" style="font-family:monospace; font-size:11px; fill:white;">calc(type) {</text>
+                                <text x="45" y="84" style="font-family:monospace; font-size:11px; fill:white;">if (type == 'xmas')</text>
+                                <text x="45" y="101" style="font-family:monospace; font-size:11px; fill:white;">if (type == 'summer')</text>
+                                <text x="30" y="118" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="15" y="135" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+
+                                <text x="220" y="50" style="font-family:monospace; font-size:11px; fill:white;">✓ interface Discount {</text>
+                                <text x="235" y="67" style="font-family:monospace; font-size:11px; fill:white;">calculate()</text>
+                                <text x="220" y="84" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="101" style="font-family:monospace; font-size:11px; fill:white;">class XmasDiscount</text>
+                                <text x="235" y="118" style="font-family:monospace; font-size:11px; fill:white;">implements Discount</text>
+                                <text x="220" y="135" style="font-family:monospace; font-size:11px; fill:white;">class SummerDiscount</text>
+                                <text x="235" y="150" style="font-family:monospace; font-size:11px; fill:white;">implements Discount</text>
+                            </svg>
+                        </div>
+
+                        <!-- 3: LSP -->
+                        <div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%) rotate(120deg) translate(550px) rotate(-120deg);">
+                            <svg width="500" height="250">
+                                <rect width="500" height="250" rx="10" fill="#FF9800" opacity="0.9" />
+                                <text x="15" y="50" style="font-family:monospace; font-size:11px; fill:white;">❌ class Bird {</text>
+                                <text x="30" y="67" style="font-family:monospace; font-size:11px; fill:white;">fly() { }</text>
+                                <text x="15" y="84" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="15" y="101" style="font-family:monospace; font-size:11px; fill:white;">class Penguin extends Bird {</text>
+                                <text x="30" y="118" style="font-family:monospace; font-size:11px; fill:white;">fly() {</text>
+                                <text x="45" y="135" style="font-family:monospace; font-size:11px; fill:white;">throw Error()</text>
+                                <text x="30" y="150" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+
+                                <text x="220" y="50" style="font-family:monospace; font-size:11px; fill:white;">✓ class Bird { }</text>
+                                <text x="220" y="67" style="font-family:monospace; font-size:11px; fill:white;">class FlyingBird</text>
+                                <text x="235" y="84" style="font-family:monospace; font-size:11px; fill:white;">extends Bird {</text>
+                                <text x="235" y="101" style="font-family:monospace; font-size:11px; fill:white;">fly() { }</text>
+                                <text x="220" y="118" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="135" style="font-family:monospace; font-size:11px; fill:white;">class Penguin</text>
+                                <text x="235" y="150" style="font-family:monospace; font-size:11px; fill:white;">extends Bird { }</text>
+                            </svg>
+                        </div>
+
+                        <!-- 4: ISP -->
+                        <div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%) rotate(180deg) translate(550px) rotate(-180deg);">
+                            <svg width="500" height="250">
+                                <rect width="500" height="250" rx="10" fill="#9C27B0" opacity="0.9" />
+                                <text x="15" y="50" style="font-family:monospace; font-size:11px; fill:white;">❌ interface Worker {</text>
+                                <text x="30" y="67" style="font-family:monospace; font-size:11px; fill:white;">work()</text>
+                                <text x="30" y="84" style="font-family:monospace; font-size:11px; fill:white;">eat()</text>
+                                <text x="15" y="101" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="15" y="118" style="font-family:monospace; font-size:11px; fill:white;">class Robot</text>
+                                <text x="30" y="135" style="font-family:monospace; font-size:11px; fill:white;">implements Worker {</text>
+                                <text x="30" y="150" style="font-family:monospace; font-size:11px; fill:white;">eat() { /* ??? */ }</text>
+
+                                <text x="220" y="50" style="font-family:monospace; font-size:11px; fill:white;">✓ interface Workable {</text>
+                                <text x="235" y="67" style="font-family:monospace; font-size:11px; fill:white;">work()</text>
+                                <text x="220" y="84" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="101" style="font-family:monospace; font-size:11px; fill:white;">interface Eatable {</text>
+                                <text x="235" y="118" style="font-family:monospace; font-size:11px; fill:white;">eat()</text>
+                                <text x="220" y="135" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="150" style="font-family:monospace; font-size:11px; fill:white;">// Robot only implements Workable</text>
+                            </svg>
+                        </div>
+
+                        <!-- 5: DIP -->
+                        <div style="position:absolute; left:50%; top:50%; transform:translate(-50%, -50%) rotate(240deg) translate(550px) rotate(-240deg);">
+                            <svg width="500" height="250">
+                                <rect width="500" height="250" rx="10" fill="#F44336" opacity="0.9" />
+                                <text x="15" y="50" style="font-family:monospace; font-size:11px; fill:white;">❌ class App {</text>
+                                <text x="30" y="67" style="font-family:monospace; font-size:11px; fill:white;">db = new MySQL()</text>
+                                <text x="15" y="84" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="15" y="101" style="font-family:monospace; font-size:11px; fill:white;">// Tightly coupled to MySQL</text>
+
+                                <text x="220" y="50" style="font-family:monospace; font-size:11px; fill:white;">✓ interface Database {</text>
+                                <text x="235" y="67" style="font-family:monospace; font-size:11px; fill:white;">query()</text>
+                                <text x="220" y="84" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="101" style="font-family:monospace; font-size:11px; fill:white;">class App {</text>
+                                <text x="235" y="118" style="font-family:monospace; font-size:11px; fill:white;">constructor(db: Database)</text>
+                                <text x="220" y="135" style="font-family:monospace; font-size:11px; fill:white;">}</text>
+                                <text x="220" y="150" style="font-family:monospace; font-size:11px; fill:white;">// Can use any DB implementation</text>
+                            </svg>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

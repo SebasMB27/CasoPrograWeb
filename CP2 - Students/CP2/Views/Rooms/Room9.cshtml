@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Room 9";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room9.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-dark">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <form asp-action="Room9" method="post" class="needs-validation">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <div style="background: #000; opacity:0.5;">
+                            En un pequeño pueblo, cada artesano solía fabricar todas las herramientas que necesitaba: el herrero hacía su propio martillo, el carpintero tallaba sus propias sierras, y el alfarero mezclaba a mano sus propios pigmentos.
+                            Era un pueblo lleno de talento… pero cada trabajo avanzaba lento, porque nadie podía enfocar su habilidad principal: todos invertían horas en crear lo que usarían después.
+
+                            Hasta que un día apareció un viajero silencioso que trajo una idea muy extraña:
+                            “¿Y si cada artesano dejara de forjar sus herramientas… y otro se las entregara listas cuando fueran necesarias?”
+
+                            Muchos se rieron, pero lo probaron.
+                            El carpintero comenzó a recibir sus hojas de corte de un especialista en metales;
+                            el herrero ya no mezclaba sus tintes, sino que se los traía el alfarero;
+                            y el alfarero, en lugar de construir su propio torno, recibía uno hecho por un maestro fabricante de mecanismos.
+
+                            Los talleres ya no modificaban su interior para adaptarse a nuevas herramientas: simplemente conectaban la que necesitaban en ese momento.
+                            Si una herramienta fallaba, no había que rediseñar el taller; solo se reemplazaba por otra equivalente.
+                            El flujo de trabajo se volvió tan flexible que incluso podían probar herramientas distintas sin alterar nada más.
+
+                            El viajero se marchó, pero dejó una frase escrita en una puerta:
+
+                            “Quien deja que su labor reciba lo que necesita desde afuera,
+                            no se ata al cómo, sino que domina el qué.”
+
+                            Y aunque nadie del pueblo hablaba de patrones de diseño, todos comenzaron a trabajar más rápido, más limpio, y podían probar cosas nuevas sin romper lo que ya existía.
+                        </div>
+                        <label for="x" class="form-label">cual sera el design pattern:</label>
+                        <input type="text" id="x" name="x" class="form-control spooky-input-white" required />
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Room 6";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room6.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-white">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <form asp-action="Room6" method="post" class="needs-validation">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <div>
+                            Implementa el Chain of responsibility (CP2.COR project)
+                            Usando los metodos del CP2.COR y el initial value como 1.
+                            double initialValue = 1;
+                        </div>
+                        <input type="number" id="x" name="x" class="form-control spooky-input-white" required />
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

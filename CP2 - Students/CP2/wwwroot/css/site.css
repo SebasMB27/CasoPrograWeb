@@ -1,0 +1,613 @@
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  color: #fdf9ff;
+  background: #04010a;
+  min-height: 100vh;
+}
+
+body.step1-page {
+  background-image: url("/imgs/redroom.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.login-theme {
+  background-image: linear-gradient(120deg, rgba(2, 0, 7, 0.9), rgba(5, 4, 12, 0.7)),
+    radial-gradient(circle at 10% 20%, rgba(20, 8, 28, 0.9), transparent 30%),
+    radial-gradient(circle at 85% 10%, rgba(5, 6, 12, 0.95), transparent 35%),
+    radial-gradient(circle at 40% 80%, rgba(10, 10, 10, 0.5), transparent 30%),
+    url("/imgs/bgintro.png");
+  background-size: cover, 280px 280px, 220px 220px, 240px 240px, cover;
+  background-position: center center, 20% 20%, 80% 5%, 40% 80%, center center;
+  background-repeat: no-repeat;
+  background-blend-mode: color-burn, screen, screen, screen, normal;
+  color: #f9f6ff;
+  position: relative;
+  overflow: hidden;
+}
+
+.login-theme::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at center, rgba(255, 255, 255, 0.08), transparent 55%);
+  pointer-events: none;
+}
+
+.login-panel {
+  width: min(360px, 90vw);
+  padding: 2.5rem;
+  border-radius: 28px;
+  background: linear-gradient(180deg, rgba(6, 6, 6, 0.95), rgba(16, 10, 25, 0.9));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.75), inset 0 0 40px rgba(255, 255, 255, 0.02);
+  position: relative;
+  z-index: 1;
+}
+
+.login-panel h2 {
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  font-size: 1.35rem;
+  color: #d8d0ff;
+}
+
+.login-panel .card-body {
+  padding: 0;
+}
+
+.login-panel label,
+.login-panel .form-check-label {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+.login-panel .form-control {
+  margin-top: 0.35rem;
+  background-color: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fdf9ff;
+  min-height: 48px;
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.login-panel .form-control::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.login-panel .form-control:focus {
+  border-color: #7d97b8;
+  box-shadow: 0 0 0 0.2rem rgba(125, 151, 184, 0.25);
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.login-panel .form-select {
+  margin-top: 0.35rem;
+  background-color: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #fdf9ff;
+  min-height: 48px;
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+}
+
+.login-panel .form-select:focus {
+  border-color: #7d97b8;
+  box-shadow: 0 0 0 0.2rem rgba(125, 151, 184, 0.25);
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.login-panel .btn-primary {
+  margin-top: 1rem;
+  width: 100%;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #1f1c2c, #3a283a);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.6), inset 0 0 10px rgba(255, 255, 255, 0.1);
+  padding: 0.95rem 1rem;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #f5f8ff;
+}
+
+.login-panel .btn-primary:hover {
+  background: linear-gradient(135deg, #3a293c, #1a151f);
+}
+
+.login-panel .form-check-input {
+  width: 18px;
+  height: 18px;
+  border-radius: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+.login-panel .form-check-input:checked {
+  background-color: #ca66ff;
+  border-color: #ca66ff;
+}
+
+.login-panel .form-check {
+  margin-bottom: 1rem;
+}
+
+.login-panel .text-danger {
+  color: #ff6b6b;
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.login-panel .form-check label {
+  padding-left: 0.35rem;
+}
+
+.auth-switch {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+}
+
+.auth-link {
+  color: #ca66ff;
+  text-decoration: none;
+}
+
+.auth-link:hover {
+  color: #e3a8ff;
+  text-decoration: underline;
+}
+
+.home-night {
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1.5rem 3rem;
+  background: radial-gradient(circle at 50% 20%, rgba(255, 255, 255, 0.04), transparent 45%),
+    radial-gradient(circle at 10% 15%, rgba(255, 255, 255, 0.02), transparent 50%),
+    #010005;
+  color: #f7f6fb;
+  overflow: hidden;
+  width: 100vw;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  max-width: none;
+}
+
+.full-bleed {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.home-grid {
+  width: min(900px, 90vw);
+  display: grid;
+  gap: 1.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  z-index: 2;
+  opacity: 0.7;
+}
+
+.secret-card {
+  padding: 1.75rem;
+  border-radius: 20px;
+  background: rgba(5, 5, 10, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 15px 45px rgba(0, 0, 0, 0.9);
+  mix-blend-mode: normal;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+.secret-card.secondary {
+  background: rgba(12, 12, 20, 0.82);
+}
+
+.secret-card.tertiary {
+  background: rgba(8, 8, 16, 0.76);
+}
+
+.secret-title {
+  font-size: 0.85rem;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: #918cc3;
+  margin-bottom: 0.75rem;
+}
+
+.secret-body {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #e74c3c;
+  text-shadow: 0 0 10px rgba(231, 76, 60, 0.9), 0 0 20px rgba(0, 0, 0, 0.6);
+  font-family: "Cinzel Decorative", "Cormorant Garamond", serif;
+  letter-spacing: 0.2em;
+  cursor: not-allowed;
+}
+
+.secret-body::after {
+  content: "";
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  color: rgba(231, 76, 60, 0.7);
+}
+
+.secret-input-panel {
+  position: absolute;
+  left: 50%;
+  bottom: 2rem;
+  transform: translateX(-50%) translateY(10px);
+  min-width: 280px;
+  width: min(420px, 90vw);
+  padding: 1rem 1.25rem;
+  background: rgba(8, 8, 12, 0.95);
+  border: 1px solid rgba(231, 76, 60, 0.5);
+  border-radius: 14px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 3;
+}
+
+.secret-input-label {
+  font-size: 0.75rem;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+  color: rgba(231, 76, 60, 0.8);
+}
+
+.secret-input-panel.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
+}
+
+.secret-input-row {
+  display: flex;
+  gap: 0.65rem;
+  margin-top: 0.4rem;
+}
+
+.secret-input {
+  flex: 1;
+  padding: 0.6rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid rgba(231, 76, 60, 0.6);
+  background: rgba(255, 255, 255, 0.05);
+  color: #fdf9ff;
+  letter-spacing: 0.15em;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.secret-input:focus {
+  border-color: #ff8d8d;
+  box-shadow: 0 0 0 0.15rem rgba(231, 76, 60, 0.3);
+  outline: none;
+}
+
+.secret-submit {
+  border: none;
+  background: linear-gradient(135deg, rgba(231, 76, 60, 0.85), rgba(255, 121, 121, 0.95));
+  color: #fff;
+  padding: 0 1rem;
+  border-radius: 8px;
+  letter-spacing: 0.2em;
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.secret-submit:hover {
+  background: linear-gradient(135deg, rgba(255, 121, 121, 0.9), rgba(231, 76, 60, 0.9));
+}
+
+.secret-feedback {
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-align: center;
+  color: rgba(231, 76, 60, 0.8);
+}
+
+.secret-input-panel.invalid .secret-feedback {
+  color: #ff6b6b;
+}
+
+.home-hint {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.3em;
+  color: rgba(255, 255, 255, 0.55);
+  text-transform: uppercase;
+  z-index: 2;
+}
+
+.flashlight-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle at var(--flash-x, 50%) var(--flash-y, 50%), rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.25) 7%, rgba(2, 2, 2, 0.99) 12%);
+  mix-blend-mode: screen;
+  opacity: 0;
+  transition: opacity 0.1s ease;
+  z-index: 1;
+}
+
+.flashlight-overlay.active {
+  opacity: 1;
+}
+
+.letter-field {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.letter-field span {
+  position: absolute;
+  font-size: 1.8rem;
+  letter-spacing: 0.6rem;
+  color: rgba(255, 255, 255, 0);
+  text-transform: uppercase;
+  transition: color 0.1s ease, text-shadow 0.1s ease, letter-spacing 0.1s ease, opacity 0.1s ease;
+  mix-blend-mode: screen;
+  opacity: 0;
+}
+
+.letter-field span.lit {
+  color: rgba(255, 255, 255, 0.95);
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.6), 0 0 20px rgba(255, 255, 255, 0.3);
+  letter-spacing: 0.4rem;
+  opacity: 1;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+.transparent-white {
+    background: transparent;
+    color: white;
+}
+
+.spooky-white {
+    font-family: "Creepster", cursive;
+    font-size: 3rem;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.spooky-dark {
+    font-family: "Creepster", cursive;
+    font-size: 3rem;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.spooky-darkred {
+    font-family: "Creepster", cursive;
+    font-size: 3rem;
+    color: darkred;
+    letter-spacing: 2px;
+}
+
+.spooky-input-white {
+    background: black;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.spooky-white h1 {
+    font-size: 72px;
+}
+
+.spooky-dark h1 {
+    font-size: 72px;
+}
+
+.spooky-input-white:hover {
+    background: transparent;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+    .spooky-input-white:focus {
+        background: transparent;
+        color: white;
+        font-size: 24px;
+        text-align: center;
+    }
+
+.spooky-button-dr {
+    background-color: darkred;
+    border: darkred;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.spooky-button-dr:hover {
+    background-color: black;
+    border:black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.room2-validatebox {
+    max-width: 250px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+/* Music Control Panel */
+.music-control-panel {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    right: auto;
+    width: 280px;
+    background: linear-gradient(180deg, rgba(6, 6, 6, 0.95), rgba(16, 10, 25, 0.9));
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 16px;
+    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.9), inset 0 0 20px rgba(255, 255, 255, 0.02);
+    padding: 12px;
+    z-index: 9999;
+    cursor: move;
+    user-select: none;
+    backdrop-filter: blur(10px);
+    transition: box-shadow 0.3s ease;
+}
+
+.music-control-panel:hover {
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.95), inset 0 0 25px rgba(255, 255, 255, 0.03);
+}
+
+.music-control-panel.dragging {
+    cursor: grabbing;
+    opacity: 0.9;
+}
+
+.music-control-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.music-control-title {
+    font-size: 0.9rem;
+    letter-spacing: 0.1em;
+    color: #d8d0ff;
+    font-weight: 600;
+}
+
+.music-control-drag-handle {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 1.2rem;
+    cursor: grab;
+    line-height: 1;
+    letter-spacing: 2px;
+}
+
+.music-control-drag-handle:active {
+    cursor: grabbing;
+}
+
+.music-control-body {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.music-control-btn {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(135deg, rgba(125, 151, 184, 0.3), rgba(202, 102, 255, 0.3));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    color: #f5f8ff;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.music-control-btn:hover {
+    background: linear-gradient(135deg, rgba(125, 151, 184, 0.5), rgba(202, 102, 255, 0.5));
+    transform: scale(1.02);
+}
+
+.music-control-btn:active {
+    transform: scale(0.98);
+}
+
+.music-control-volume {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.music-volume-icon {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.music-volume-slider {
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.1);
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}
+
+.music-volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #7d97b8, #ca66ff);
+    cursor: pointer;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.music-volume-slider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #7d97b8, #ca66ff);
+    cursor: pointer;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.music-volume-value {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.6);
+    min-width: 35px;
+    text-align: right;
+    letter-spacing: 0.05em;
+}

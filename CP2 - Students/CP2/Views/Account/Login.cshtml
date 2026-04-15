@@ -1,0 +1,56 @@
+@model CP2.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "_LoginLayout";
+}
+
+<div class="row justify-content-center">
+    <div class="">
+        <div class="card shadow-sm border-0 login-panel">
+            <div class="card-body">
+                        <h2 class="card-title text-center mb-4">@ViewData["Title"]</h2>
+
+                <form asp-action="Login" method="post" class="needs-validation" novalidate>
+                    <input asp-for="ReturnUrl" type="hidden" />
+                    <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" autocomplete="current-password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="SelectedNumber" class="form-label"></label>
+                        <select asp-for="SelectedNumber" class="form-select">
+                            @for (var number = 1; number <= 9; number++)
+                            {
+                                <option value="@number">@number</option>
+                            }
+                        </select>
+                        <span asp-validation-for="SelectedNumber" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-check mb-3">
+                        <input asp-for="RememberMe" class="form-check-input" />
+                        <label class="form-check-label" asp-for="RememberMe"></label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100">Log in</button>
+                </form>                
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}
+

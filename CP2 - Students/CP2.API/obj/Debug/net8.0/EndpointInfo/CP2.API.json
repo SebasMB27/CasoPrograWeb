@@ -1,0 +1,40 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CP2.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/SecretApi": {
+      "get": {
+        "tags": [
+          "SecretApi"
+        ],
+        "operationId": "GetPuzzle",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

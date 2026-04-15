@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CP2</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CP2.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" />
+    @await RenderSectionAsync("Styles", required: false)
+</head>
+<body>
+    <!-- Audio element for background music -->
+    <audio id="backgroundMusic" loop preload="auto">
+        <source src="@Url.Content("~/media/28 𝘿𝙖𝙮𝙨 𝙇𝙖𝙩𝙚𝙧 (𝙇𝙞𝙩𝙩𝙡𝙚 𝙗𝙞𝙩 𝙎𝙡𝙤𝙬𝙚𝙙).mp3")" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <!-- Draggable Music Control Panel -->
+    <div id="musicControlPanel" class="music-control-panel">
+        <div class="music-control-header">
+            <span class="music-control-title">🎵 Music</span>
+            <span class="music-control-drag-handle">⋮⋮</span>
+        </div>
+        <div class="music-control-body">
+            <button id="playPauseBtn" class="music-control-btn" title="Play/Pause">
+                <span id="playPauseIcon">▶</span>
+            </button>
+            <div class="music-control-volume">
+                <span class="music-volume-icon">🔊</span>
+                <input type="range" id="volumeSlider" class="music-volume-slider" min="0" max="100" value="50" title="Volume">
+                <span id="volumeValue" class="music-volume-value">50%</span>
+            </div>
+        </div>
+    </div>
+   
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

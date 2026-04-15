@@ -1,0 +1,84 @@
+@{
+    Layout = null;
+    var loginUrl = Url.Action("Login", "Account", new { returnUrl = ViewBag.ReturnUrl }) ?? "/Account/Login";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intro</title>
+    <style>
+        html, body {
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            background: #000;
+            overflow: hidden;
+            font-family: "Segoe UI", sans-serif;
+        }
+
+        .intro-container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #000;
+        }
+
+        .intro-video {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            background: #000;
+        }
+
+        .intro-overlay {
+            position: absolute;
+            right: 1rem;
+            bottom: 1rem;
+            display: flex;
+            gap: .5rem;
+            z-index: 2;
+        }
+
+        .intro-skip {
+            border: 1px solid rgba(255,255,255,.35);
+            background: rgba(0,0,0,.45);
+            color: #fff;
+            padding: .55rem .85rem;
+            border-radius: .45rem;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <main class="intro-container">
+        <video id="introVideo" class="intro-video" autoplay muted playsinline>
+            <source src="~/media/intro.mp4" type="video/mp4" />
+        </video>
+
+        <div class="intro-overlay">
+            <button id="skipIntroBtn" class="intro-skip" type="button">Skip</button>
+        </div>
+    </main>
+
+    <script>
+        (function () {
+            const loginUrl = "@loginUrl";
+            const video = document.getElementById("introVideo");
+            const skipBtn = document.getElementById("skipIntroBtn");
+
+            const goToLogin = () => window.location.href = loginUrl;
+
+            skipBtn?.addEventListener("click", goToLogin);
+            video?.addEventListener("ended", goToLogin);
+            video?.addEventListener("error", goToLogin);
+
+            setTimeout(goToLogin, 12000);
+        })();
+    </script>
+</body>
+</html>

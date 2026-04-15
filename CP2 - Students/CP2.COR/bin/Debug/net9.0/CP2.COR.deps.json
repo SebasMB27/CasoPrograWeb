@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CP2.COR/1.0.0": {
+        "runtime": {
+          "CP2.COR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP2.COR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

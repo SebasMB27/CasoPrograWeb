@@ -1,0 +1,145 @@
+@{
+    ViewData["Title"] = "Room 13";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room13.jpg");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .room12-shell {
+            width: min(980px, 94vw);
+            margin: 2rem auto;
+            padding: 1.5rem;
+            border-radius: 16px;
+            background: rgba(5, 8, 16, 0.72);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.65);
+            color: #eef3ff;
+            backdrop-filter: blur(5px);
+        }
+
+        .room12-title {
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            font-size: 1.05rem;
+            color: #cfd8ff;
+        }
+
+        .room12-hint {
+            font-size: 0.82rem;
+            letter-spacing: 0.06em;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 1rem;
+        }
+
+        .packet-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 0.8rem;
+            margin-bottom: 1rem;
+        }
+
+        .packet-card {
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.22);
+            background: linear-gradient(180deg, rgba(20, 26, 45, 0.95), rgba(9, 12, 24, 0.9));
+            padding: 0.85rem 0.9rem;
+            cursor: pointer;
+            user-select: none;
+            transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+        }
+
+        .packet-card:hover {
+            transform: translateY(-2px);
+            border-color: rgba(153, 176, 255, 0.95);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+        }
+
+        .packet-label {
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: rgba(255, 255, 255, 0.65);
+            margin-bottom: 0.45rem;
+        }
+
+        .packet-value {
+            font-family: "Consolas", "Courier New", monospace;
+            color: #9fd1ff;
+            letter-spacing: 0.06em;
+            font-size: 0.96rem;
+        }
+
+        .packet-card.revealed .packet-value {
+            color: #ffffff;
+            font-weight: 600;
+        }
+
+        .decoded-output {
+            margin: 0.6rem 0 1rem;
+            padding: 0.8rem 1rem;
+            border-radius: 10px;
+            border: 1px dashed rgba(255, 255, 255, 0.35);
+            background: rgba(255, 255, 255, 0.03);
+            font-family: "Consolas", "Courier New", monospace;
+            color: #dbe7ff;
+        }
+
+        .room12-input {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.06);
+            color: #fff;
+            min-height: 46px;
+            padding: 0.6rem 0.9rem;
+        }
+
+        .room12-input:focus {
+            outline: none;
+            border-color: rgba(153, 176, 255, 0.85);
+            box-shadow: 0 0 0 0.16rem rgba(153, 176, 255, 0.2);
+        }
+
+        .room12-btn {
+            margin-top: 0.9rem;
+            width: 100%;
+            border: 1px solid rgba(255, 255, 255, 0.24);
+            border-radius: 10px;
+            background: linear-gradient(135deg, #1f1b2e, #2e2745);
+            color: #fff;
+            padding: 0.8rem 1rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+    </style>
+}
+
+<section class="room12-shell">
+    <h1 class="card-title text-center mb-4 spooky-white">@ViewData["Title"]</h1>
+
+    <pre>
+        Tip <span>&#x1F4A1;</span>: 
+        https://localhost:7149/SecretApi
+        https://caesar-cipher.com/?mode=decrypt
+    </pre>
+        
+    <div class="packet-grid">
+        
+    </div>
+
+    <form asp-action="Room13" method="post" class="needs-validation">
+        @Html.AntiForgeryToken()
+        <label for="x" class="form-label">Answer</label>
+        <input id="x" name="x" type="text" class="room12-input" autocomplete="off" required />
+        <button type="submit" class="room12-btn">Submit</button>
+    </form>
+</section>
+

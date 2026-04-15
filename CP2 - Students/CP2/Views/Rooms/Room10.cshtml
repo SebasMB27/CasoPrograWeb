@@ -1,0 +1,191 @@
+@{
+    ViewData["Title"] = "Room 10";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <meta name="passcode" content="N0T_S0_WH1TE" />
+    <style>
+        html, body {
+            background: #fff;
+        }
+
+        .room10-blank {
+            min-height: 100vh;
+            background: #fff;
+            color: #fff;
+            padding: 1.5rem;
+            overflow: hidden;
+        }
+
+        .room10-stack {
+            position: relative;
+            width: min(980px, 95vw);
+            height: min(78vh, 760px);
+            margin: 0 auto;
+        }
+
+        .puzzle-layer {
+            position: absolute;
+            width: 420px;
+            background: #fff;
+            color: #fff;
+            border: 1px solid #fff;
+            border-radius: 10px;
+            box-shadow: 0 8px 22px rgba(255, 255, 255, 0.45);
+            user-select: none;
+        }
+
+        .puzzle-header {
+            cursor: move;
+            padding: 0.55rem 0.75rem;
+            border-bottom: 1px solid #fff;
+            font-size: 0.85rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: #fff;
+            background: #fff;
+        }
+
+        .puzzle-body {
+            padding: 1rem;
+            min-height: 120px;
+            color: #fff;
+            background: #fff;
+        }
+
+        .layer-hidden {
+            top: 120px;
+            left: 180px;
+            z-index: 1;
+        }
+
+        .layer-a {
+            top: 70px;
+            left: 120px;
+            z-index: 4;
+        }
+
+        .layer-b {
+            top: 120px;
+            left: 180px;
+            z-index: 5;
+        }
+
+        .layer-c {
+            top: 170px;
+            left: 240px;
+            z-index: 6;
+        }
+
+        .room10-submit-wrap {
+            width: min(980px, 95vw);
+            margin: 1rem auto 0;
+        }
+
+        .room10-input {
+            width: 100%;
+            border: 1px solid #fff;
+            background: #fff;
+            color: #fff;
+            padding: 0.8rem 1rem;
+            border-radius: 10px;
+            margin-bottom: 0.75rem;
+        }
+
+        .room10-input:focus {
+            outline: none;
+            border-color: #fff;
+        }
+
+        .room10-submit {
+            width: 100%;
+            border: 1px solid #fff;
+            background: #fff;
+            color: #fff;
+            padding: 0.8rem 1rem;
+            border-radius: 10px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            cursor: pointer;
+        }
+    </style>
+}
+
+<section class="room10-blank">
+    <div class="room10-stack" id="room10Stack">
+        <div class="puzzle-layer layer-hidden">
+            <div class="puzzle-header">Layer Hidden</div>
+            <div class="puzzle-body" id="hiddenTextValue">N0T_S0_WH1TE</div>
+        </div>
+
+        <div class="puzzle-layer layer-a draggable-panel">
+            <div class="puzzle-header">Layer A</div>
+            <div class="puzzle-body">........</div>
+        </div>
+
+        <div class="puzzle-layer layer-b draggable-panel">
+            <div class="puzzle-header">Layer B</div>
+            <div class="puzzle-body">........</div>
+        </div>
+
+        <div class="puzzle-layer layer-c draggable-panel">
+            <div class="puzzle-header">Layer C</div>
+            <div class="puzzle-body">........</div>
+        </div>
+    </div>
+
+    <div class="room10-submit-wrap">
+        <form asp-action="Room10" method="post">
+            @Html.AntiForgeryToken()
+            <input type="text" id="room10Payload" name="x" class="room10-input" autocomplete="off" required />
+            <button type="submit" class="room10-submit">Submit</button>
+        </form>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        (() => {
+            const panels = document.querySelectorAll(".draggable-panel");
+            let activePanel = null;
+            let startX = 0;
+            let startY = 0;
+            let originX = 0;
+            let originY = 0;
+
+            const startDrag = (event, panel) => {
+                activePanel = panel;
+                const rect = panel.getBoundingClientRect();
+                originX = rect.left;
+                originY = rect.top;
+                startX = event.type.startsWith("touch") ? event.touches[0].clientX : event.clientX;
+                startY = event.type.startsWith("touch") ? event.touches[0].clientY : event.clientY;
+            };
+
+            const onMove = (event) => {
+                if (!activePanel) return;
+                const clientX = event.type.startsWith("touch") ? event.touches[0].clientX : event.clientX;
+                const clientY = event.type.startsWith("touch") ? event.touches[0].clientY : event.clientY;
+                const deltaX = clientX - startX;
+                const deltaY = clientY - startY;
+                activePanel.style.left = `${originX + deltaX}px`;
+                activePanel.style.top = `${originY + deltaY}px`;
+            };
+
+            const endDrag = () => { activePanel = null; };
+
+            panels.forEach((panel) => {
+                const header = panel.querySelector(".puzzle-header");
+                if (!header) return;
+                header.addEventListener("mousedown", (e) => startDrag(e, panel));
+                header.addEventListener("touchstart", (e) => startDrag(e, panel), { passive: true });
+            });
+
+            document.addEventListener("mousemove", onMove);
+            document.addEventListener("touchmove", onMove, { passive: true });
+            document.addEventListener("mouseup", endDrag);
+            document.addEventListener("touchend", endDrag);
+        })();
+    </script>
+}

@@ -1,0 +1,183 @@
+@{
+    ViewData["Title"] = "Room 14";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room15.1.jpg");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .room14-shell {
+            width: min(980px, 94vw);
+            margin: 2rem auto;
+            padding: 1.5rem;
+            border-radius: 16px;
+            background: rgba(5, 8, 16, 0.72);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.65);
+            color: #eef3ff;
+            backdrop-filter: blur(5px);
+        }
+
+        .room14-title {
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            font-size: 1.05rem;
+            color: #cfd8ff;
+        }
+
+        .room14-hint {
+            font-size: 0.82rem;
+            letter-spacing: 0.06em;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 1rem;
+        }
+
+        .binary-hotspot {
+            position: fixed;
+            z-index: 30;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: transparent;
+        }
+
+        .binary-exit {
+            position: fixed;
+            z-index: 29;
+            font-family: "Consolas", "Courier New", monospace;
+            font-size: clamp(0.9rem, 1.5vw, 1.1rem);
+            letter-spacing: 0.09em;
+            color: rgba(248, 252, 255, 0.78);
+            background: rgba(8, 10, 15, 0.55);
+            border: 1px solid rgba(255, 255, 255, 0.28);
+            border-radius: 12px;
+            padding: 0.7rem 0.9rem;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+            backdrop-filter: blur(4px);
+            user-select: none;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s ease;
+        }
+
+        .binary-hotspot:hover + .binary-exit {
+            opacity: 1;
+        }
+
+        .room14-input {
+            width: 100%;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            background: rgba(255, 255, 255, 0.06);
+            color: #fff;
+            min-height: 46px;
+            padding: 0.6rem 0.9rem;
+        }
+
+        .room14-input:focus {
+            outline: none;
+            border-color: rgba(153, 176, 255, 0.85);
+            box-shadow: 0 0 0 0.16rem rgba(153, 176, 255, 0.2);
+        }
+
+        .room14-btn {
+            margin-top: 0.9rem;
+            width: 100%;
+            border: 1px solid rgba(255, 255, 255, 0.24);
+            border-radius: 10px;
+            background: linear-gradient(135deg, #1f1b2e, #2e2745);
+            color: #fff;
+            padding: 0.8rem 1rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+    </style>
+}
+
+<section class="room14-shell">
+    <h1 class="room14-title text-center mb-3">@ViewData["Title"]</h1>
+    
+    <form asp-action="Room14" method="post" class="needs-validation">
+        @Html.AntiForgeryToken()
+        <label for="x" class="form-label">Answer</label>
+        <input id="x" name="x" type="text" class="room14-input" autocomplete="off" required />
+        <button type="submit" class="room14-btn">Submit</button>
+    </form>
+</section>
+
+<div id="binaryHotspot" class="binary-hotspot" aria-label="Hidden binary hint hotspot"></div>
+<div id="binaryExit" class="binary-exit" aria-label="Hidden binary hint">
+    01000101 01011000 01001001 01010100
+</div>
+
+@section Scripts {
+    <script>
+        (() => {
+            setTimeout(() => window.location.reload(), 30000);
+
+            const hotspot = document.getElementById("binaryHotspot");
+            const binaryExit = document.getElementById("binaryExit");
+            const shell = document.querySelector(".room14-shell");
+            if (!hotspot || !binaryExit || !shell) return;
+
+            const margin = 18;
+            const maxX = Math.max(margin, window.innerWidth - hotspot.offsetWidth - margin);
+            const maxY = Math.max(margin, window.innerHeight - hotspot.offsetHeight - margin);
+            const shellRect = shell.getBoundingClientRect();
+            const guard = 8;
+            const blockedRect = {
+                left: shellRect.left - guard,
+                right: shellRect.right + guard,
+                top: shellRect.top - guard,
+                bottom: shellRect.bottom + guard
+            };
+
+            const intersectsBlockedArea = (x, y) => {
+                const hLeft = x;
+                const hRight = x + hotspot.offsetWidth;
+                const hTop = y;
+                const hBottom = y + hotspot.offsetHeight;
+                return !(hRight < blockedRect.left || hLeft > blockedRect.right || hBottom < blockedRect.top || hTop > blockedRect.bottom);
+            };
+
+            let randomX = margin;
+            let randomY = margin;
+            let placed = false;
+            for (let i = 0; i < 200; i++) {
+                const testX = Math.floor(Math.random() * (maxX - margin + 1)) + margin;
+                const testY = Math.floor(Math.random() * (maxY - margin + 1)) + margin;
+                if (!intersectsBlockedArea(testX, testY)) {
+                    randomX = testX;
+                    randomY = testY;
+                    placed = true;
+                    break;
+                }
+            }
+
+            if (!placed) {
+                randomX = margin;
+                randomY = Math.max(margin, blockedRect.top - hotspot.offsetHeight - margin);
+            }
+
+            hotspot.style.left = `${randomX}px`;
+            hotspot.style.top = `${randomY}px`;
+
+            const panelMargin = 24;
+            const panelMaxX = Math.max(panelMargin, window.innerWidth - binaryExit.offsetWidth - panelMargin);
+            const panelMaxY = Math.max(panelMargin, window.innerHeight - binaryExit.offsetHeight - panelMargin);
+            const panelX = Math.floor(Math.random() * (panelMaxX - panelMargin + 1)) + panelMargin;
+            const panelY = Math.floor(Math.random() * (panelMaxY - panelMargin + 1)) + panelMargin;
+
+            binaryExit.style.left = `${panelX}px`;
+            binaryExit.style.top = `${panelY}px`;
+        })();
+    </script>
+}
+

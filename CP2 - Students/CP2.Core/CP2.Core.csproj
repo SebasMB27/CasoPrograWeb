@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CP2.Architecture\CP2.Architecture.csproj" />
+    <ProjectReference Include="..\CP2.Data\CP2.Data.csproj" />
+  </ItemGroup>
+
+</Project>

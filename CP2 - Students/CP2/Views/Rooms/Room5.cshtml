@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Room 5";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <style>
+        body {
+            background-image: url("/imgs/room5.png");
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+    </style>
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 transparent-white spooky-white">
+            <div class="card-body" style="background: transparent;">
+                <h1 class="card-title text-center mb-4">@ViewData["Title"]</h1>
+
+                <form asp-action="Room5" method="post" class="needs-validation">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <div>
+                            Como hacer esto en linq:
+
+                            SELECT [Ingredients]
+                            FROM [Foodbank].[dbo].[FoodItems]
+                            WHERE Ingredients LIKE '%game%'
+                            AND Price BETWEEN 6.5 AND 7
+                            AND IsPerishable = 1;
+                        </div>
+						<label class="form-label">Nombre de los "ingredients" separados por coma e.g. "x, y, z, a" :</label>                        
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 spooky-button-dr">Beat Me</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
