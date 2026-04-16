@@ -481,6 +481,17 @@ namespace CP2.Controllers
         #endregion
 
         #region Exit
+        [HttpGet]
+
+        public async Task<IActionResult> Room15()
+        {
+            if (!IsRoomUnlocked(15))
+            {
+                return RedirectToCurrentUnlockedRoom();
+            }
+            await Task.CompletedTask;
+            return View("Exit");
+        }
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Room15(string x)

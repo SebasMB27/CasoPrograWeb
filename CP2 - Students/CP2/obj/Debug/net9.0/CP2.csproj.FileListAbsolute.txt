@@ -1410,7 +1410,6 @@ C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfoInputs.cache
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.AssemblyInfo.cs
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cache
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.RazorAssemblyInfo.cs
@@ -1560,3 +1559,6 @@ C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.pdb
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\ref\CP2.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.COR.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\bin\Debug\net9.0\CP2.COR.pdb
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2\obj\Debug\net9.0\CP2.MvcApplicationPartsAssemblyInfo.cs

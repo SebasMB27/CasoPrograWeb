@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CP2.Architecture\CP2.Architecture.csproj" />
+    <ProjectReference Include="..\CP2.COR\CP2.COR.csproj" />
     <ProjectReference Include="..\CP2.Data\CP2.Data.csproj" />
   </ItemGroup>
 

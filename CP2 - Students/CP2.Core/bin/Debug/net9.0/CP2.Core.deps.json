@@ -9,6 +9,7 @@
       "CP2.Core/1.0.0": {
         "dependencies": {
           "CP2.Architecture": "1.0.0",
+          "CP2.COR": "1.0.0",
           "CP2.Data": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.3.9"
         },
@@ -532,6 +533,14 @@
           }
         }
       },
+      "CP2.COR/1.0.0": {
+        "runtime": {
+          "CP2.COR.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "CP2.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.11"
@@ -825,6 +834,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "CP2.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CP2.COR/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

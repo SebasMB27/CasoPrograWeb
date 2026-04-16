@@ -89,3 +89,5 @@ C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\obj\Debug\n
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\obj\Debug\net9.0\refint\CP2.Core.dll
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\obj\Debug\net9.0\CP2.Core.pdb
 C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\obj\Debug\net9.0\ref\CP2.Core.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\bin\Debug\net9.0\CP2.COR.dll
+C:\Users\User\Documents\GitHub\CasoPrograWeb\CP2 - Students\CP2.Core\bin\Debug\net9.0\CP2.COR.pdb
